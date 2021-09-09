@@ -1,0 +1,49 @@
+.footerbox  {
+    font-size: 14px;
+    background-color: #262626;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    color: #BEBEBE;
+    
+  }
+.main {
+    display: flex;
+    flex: 1;
+    padding-bottom: 1rem;
+}
+
+.mediabox { 
+    padding-top: 1rem;
+    flex: 1 1 5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.aside { 
+    padding-top: 1rem;
+    flex: 1 1 5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.linksbox { 
+    padding-top: 1rem;
+    flex: 1 1 5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.links {
+    text-decoration: none;
+    color: #fff;
+}
+
+.links:hover {
+    text-decoration: none;
+    color: beige;
+}
+
+.copyright { 
+    font-size: 14px;
+  }
